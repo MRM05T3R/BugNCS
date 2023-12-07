@@ -40,7 +40,7 @@ BugNCS is a python3 based script which is officially made for linux based distro
 ## WARNING : 
 Gunakan Script Ini Dengan Baik Dan Bijak (Resiko Ditanggu Sendiri).
 
-## Dontaions
+## NOTE :
 Buat Kalian Yang Ingin Bergabung Dengan Komunitas Kami Dan Menjadi Salah Satu Dari Kami Silahkan Kalian Klik [JOIN](https://chat.whatsapp.com/IBvQu0nrcfx4BW1hUHgYSv)
 
 * FOUNDER : MUHAMMAD ANUGRO CAHYO RAMADHAN (MR.M05T3R)
