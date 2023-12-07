@@ -220,8 +220,8 @@ logo = f"""{Style.BRIGHT+text}
 {G}┃╰━╯┃╭╮┃╭╮┃╰╯┃╰┻━┃ ┃╭━╮┃┃╰╮┃╰┫╭╮┃╰━┫╭╮╮
 {G}╰━━━┻╯╰┻╯╰┫╭━┻━━━╯ ╰╯╱╰╯╰━╯╰━┻╯╰┻━━┻╯╰╯
 ╱╱╱╱╱╱╱╱╱╱┃┃ {C}Author : {Y}MUHAMMAD ANUGRO CAHYO RAMADHAN
-╱╱╱╱╱╱╱╱╱╱╰╯ {C}Coder  : {Y}NEWBIE CYBER SECURITY
-{C}             Version : {G}{version}
+╱╱╱╱╱╱╱╱╱╱╰╯ {C}Coder  : {Y}MR.M05T3R
+{C}             Version  : {G}{version}
  """
 
 
@@ -390,7 +390,7 @@ def main(a):
     print(logo)
     print(Y)
     os.system(f'dat=$(date) && echo {Y}  ✯ {W}STARTED ON : {C}$dat')
-    print(printBox(f"⚡ This tool is only for Educational Purposes !",col1=G,col2=Y))
+    print(printBox(f"⚡ OFFICIAL NEWBIE CYBER SECURITY | BY MR.M05T3R",col1=G,col2=Y))
 
     print(f"\n{G}Choose Any Option\n")
     text = (f"""{G}[{W}${G}]{R} BUG NCS ☣️ {W}>>>{G}\n[{W}1{G}]{Y} SMS ATTACK {W}>>>\n{G}[{W}2{G}]{Y} CALL ATTACK {W}>>>\n{G}[{W}3{G}]{Y} MAIL BOMBER\n{W}{G}[{W}4{G}]{Y} WHATSAPP BOMBER{W} >>>\n{G}[{W}5{G}]{Y} ABOUT {W}>>>\n{G}[{W}6{G}]{Y} EXIT {W}>>>\n{G}[{W}>{G}]{Y} UPDATE {W}>>>\n""")
