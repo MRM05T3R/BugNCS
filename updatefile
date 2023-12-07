@@ -1,0 +1,8 @@
+apt install git
+apt install python3
+pip install cython 
+rm -rf $HOME/BugNCS
+cd $HOME
+git clone https://github.com/MRM05T3R/BugNCS
+cd $HOME/BugNCS
+python3 BuGNCS.py
